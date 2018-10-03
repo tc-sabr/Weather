@@ -1,7 +1,7 @@
 # Weather Analysis
 
 Trend #1
-/n Looking at the Latitude vs. Temperature scatter plot, the temperature increases as the latitude approaches zero.
+Looking at the Latitude vs. Temperature scatter plot, the temperature increases as the latitude approaches zero.
 
 Trend #2
 Looking at the Latitude vs. Wind Speed scatter plot, there is a point that shows a wind speed around 100 mph around latitude 0. There is most likely a storm at that location.
